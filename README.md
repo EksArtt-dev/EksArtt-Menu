@@ -7,7 +7,7 @@ Herhangi bir problemde dm üzerinden ulaşabilirsiniz
 Hoş Bir Menu
 
 Kurulum;
-- İsmini Değiştirmeyiniz
+- **İsmini qb-menu yapınız !**
 - QB Dosyasında atmanız yeterli olacaktır
 
 
